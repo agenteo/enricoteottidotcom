@@ -13,10 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Design and facilitation of group conversations</h2>
+			<h2>I apply visual thinking all around</h2>
 		</header>
-		<p>As a facilitator I like to encourage full participation, promote mutual understanding, foster inclusive solutions, cultivate shared responsibility.</p>		
-		<p><strong>What's purpose of your session?</strong></p>
+		<p>As a facilitator, product manager, coach I use visuals to let my peers see what I mean.</p>
 	</div>
 </section>
 
@@ -24,16 +23,16 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<div class="image">
-			<img src="{% link assets/images/project-kickoff.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/visualization-workshop.jpg %}" alt="" data-position="center center" />
 		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 id="kickoff">Reach alignment in a project kickoff</h3>
+					<h3 id="kickoff">Custom workshops</h3>
 				</header>
-				<p>I work on single or multi day project kickoffs.</p>
-				<p>Before the session I clarify the outcomes with the decision maker, roles, rules and agenda.</p>				
-				<p>During the session I encourage full participation, promote mutual understanding, foster inclusive solutions, cultivate shared responsibility.</p>
+				<p>This is not art. This is re-discovering a way to communicate.</p>
+				<p>What's your context? What's goal of your visualization? What's your role? Presenter? Documenter? Facilitator?</p>				
+				<p>I can tailor a workshop based on your needs.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Get in touch</a></li>
 				</ul>
@@ -41,15 +40,13 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/retrospectives.jpg %}" alt="" data-position="top center" />
-		</a>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My first test <a href="https://twitter.com/hashtag/sketchnoting?src=hash&amp;ref_src=twsrc%5Etfw">#sketchnoting</a> timelapse on video. Subject: recalling the places I lived and worked the past 6 years in U.S.A. Constraints: 5 min for the first one, 10 (5 black + 5 color) for each other. <a href="https://t.co/MU60cH4PG9">pic.twitter.com/MU60cH4PG9</a></p>&mdash; 𝐸𝓃𝓇𝒾𝒸𝑜 𝒯𝑒𝑜𝓉𝓉𝒾 (@agenteo) <a href="https://twitter.com/agenteo/status/1240115063601516546?ref_src=twsrc%5Etfw">March 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Generate insights in a retrospective</h3>
+					<h3>Graphic recording</h3>
 				</header>
-				<p>Does your group have retrospectives with only habitual thinking and premature convergence? I can help design and facilitate the next one.</p>
+				<p>I can be an active listener in your session and create digital or physical artifacts.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Get in touch</a></li>
 				</ul>
@@ -58,34 +55,20 @@ nav-menu: true
 	</section>
 	<section>
 		<div href="generic.html" class="image">
-			<img src="{% link assets/images/group-decision.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/visual-template.jpg %}" alt="" data-position="25% 25%" />
 		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h2>Some problems don't have solutions</h2>
+					<h3>Visual templates</h3>
 				</header>
-				<p>If they did you'd have already figured it out.</p>
-				<p>And they keep coming back if you apply a regular problem solving technique.</p>
-				<p>I don't have the solution in my pocket--nobody does--but <strong>I can help facilitate group conversations to start shifting patterns</strong>.</p>				<ul class="actions">
+				<p>To help increase group engagement in activities, and remembering what happened so far in multi-day sessions.</p>
+				<ul class="actions">
 					<li><a href="generic.html" class="button">Get in touch</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-</section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>But I don't want to depend on you</h2>
-		</header>
-		<p>I can co-facilitate with folks from your side so they can learn by doing.</p>
-<ul class="actions">
-					<li><a href="generic.html" class="button">Get in touch</a></li>
-				</ul>
-	</div>
 </section>
 
 </div>

@@ -50,6 +50,7 @@ nav-menu: true
 					<h3>Generate insights in a retrospective</h3>
 				</header>
 				<p>Does your group have retrospectives with only habitual thinking and premature convergence? I can help design and facilitate the next one.</p>
+				<p>I host <a href="http://thisisretrospectivefacilitation.com/">This is Retrospective Facilitation</a> a podcast dedicated to retrospectives.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Get in touch</a></li>
 				</ul>

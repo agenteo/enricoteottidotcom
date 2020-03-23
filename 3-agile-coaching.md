@@ -2,7 +2,7 @@
 title: Agile coaching
 layout: landing
 description: 'Agile is not a check list </br> Let''s tailor it to your context'
-image: assets/images/facilitation-wide-image.jpg
+image: assets/images/agile-coaching.jpg
 nav-menu: true
 ---
 
@@ -13,10 +13,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Design and facilitation of group conversations</h2>
+			<h2>Why are you going agile?</h2>
 		</header>
-		<p>As a facilitator I like to encourage full participation, promote mutual understanding, foster inclusive solutions, cultivate shared responsibility.</p>		
-		<p><strong>What's purpose of your session?</strong></p>
+		<p>I like to coach 1:1 or groups using praxis a mix of theory and heavy practice.</p>
+		<p>You do not become agile by following a recipe.</p>
+		<p>Let's look together at principles and what applies to your context.</p>
 	</div>
 </section>
 
@@ -29,11 +30,10 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 id="kickoff">Reach alignment in a project kickoff</h3>
+					<h3 id="kickoff">Can we be remote?</h3>
 				</header>
-				<p>I work on single or multi day project kickoffs.</p>
-				<p>Before the session I clarify the outcomes with the decision maker, roles, rules and agenda.</p>				
-				<p>During the session I encourage full participation, promote mutual understanding, foster inclusive solutions, cultivate shared responsibility.</p>
+				<p>It's gonna require discipline and intention to minimize the lack of physical interactions.</p>
+				
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Get in touch</a></li>
 				</ul>
