@@ -40,7 +40,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My first test <a href="https://twitter.com/hashtag/sketchnoting?src=hash&amp;ref_src=twsrc%5Etfw">#sketchnoting</a> timelapse on video. Subject: recalling the places I lived and worked the past 6 years in U.S.A. Constraints: 5 min for the first one, 10 (5 black + 5 color) for each other. <a href="https://t.co/MU60cH4PG9">pic.twitter.com/MU60cH4PG9</a></p>&mdash; 𝐸𝓃𝓇𝒾𝒸𝑜 𝒯𝑒𝑜𝓉𝓉𝒾 (@agenteo) <a href="https://twitter.com/agenteo/status/1240115063601516546?ref_src=twsrc%5Etfw">March 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<div class="image">
+			<img src="{% link assets/images/session-sketches.jpg %}" alt="" data-position="center center" />
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
