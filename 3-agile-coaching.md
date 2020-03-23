@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
 		<p>I like to coach 1:1 or groups using praxis a mix of theory and heavy practice.</p>
 		<p>You do not become agile by following a recipe.</p>
-		<p>Let's look together at principles and what applies to your context.</p>
+		<p>Let's look together at principles and best approach in your context.</p>
 	</div>
 </section>
 
@@ -32,60 +32,17 @@ nav-menu: true
 				<header class="major">
 					<h3 id="kickoff">Can we be remote?</h3>
 				</header>
+				<p>It's a tradeoff.</p>
+				<p>I have extensive--since 2007--experience working remote both as a developer and a product manager and facilitator.</p>
 				<p>It's gonna require discipline and intention to minimize the lack of physical interactions.</p>
+				<p>Let's talk about it.</p>
 				
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Get in touch</a></li>
+					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/retrospectives.jpg %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Generate insights in a retrospective</h3>
-				</header>
-				<p>Does your group have retrospectives with only habitual thinking and premature convergence? I can help design and facilitate the next one.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Get in touch</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<div href="generic.html" class="image">
-			<img src="{% link assets/images/group-decision.jpg %}" alt="" data-position="25% 25%" />
-		</div>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h2>Some problems don't have solutions</h2>
-				</header>
-				<p>If they did you'd have already figured it out.</p>
-				<p>And they keep coming back if you apply a regular problem solving technique.</p>
-				<p>I don't have the solution in my pocket--nobody does--but <strong>I can help facilitate group conversations to start shifting patterns</strong>.</p>				<ul class="actions">
-					<li><a href="generic.html" class="button">Get in touch</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-</section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>But I don't want to depend on you</h2>
-		</header>
-		<p>I can co-facilitate with folks from your side so they can learn by doing.</p>
-<ul class="actions">
-					<li><a href="generic.html" class="button">Get in touch</a></li>
-				</ul>
-	</div>
 </section>
 
 </div>

@@ -34,7 +34,7 @@ nav-menu: true
 				<p>What's your context? What's goal of your visualization? What's your role? Presenter? Documenter? Facilitator?</p>				
 				<p>I can tailor a workshop based on your needs.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Get in touch</a></li>
+					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
 				</ul>
 			</div>
 		</div>
@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p>I can be an active listener in your session and create digital or physical artifacts.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Get in touch</a></li>
+					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
 				</ul>
 			</div>
 		</div>
@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p>To help increase group engagement in activities, and remembering what happened so far in multi-day sessions.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Get in touch</a></li>
+					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
 				</ul>
 			</div>
 		</div>

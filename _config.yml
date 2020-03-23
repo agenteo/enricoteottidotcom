@@ -1,7 +1,7 @@
 # site settings
 title: Enrico Teotti
 subtitle: agile coach, facilitator
-email: hello@enricoteotti.com
+email: enrico.teotti@pm.me
 description: I am an agile coach and (visual) facilitator<br /> with product management and sofware development experience.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://enricoteotti.com/ # the base hostname & protocol for your site

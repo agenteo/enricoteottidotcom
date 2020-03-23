@@ -35,7 +35,7 @@ nav-menu: true
 				<p>Before the session I clarify the outcomes with the decision maker, roles, rules and agenda.</p>				
 				<p>During the session I encourage full participation, promote mutual understanding, foster inclusive solutions, cultivate shared responsibility.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Get in touch</a></li>
+					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
 				</ul>
 			</div>
 		</div>
@@ -52,7 +52,7 @@ nav-menu: true
 				<p>Does your group have retrospectives with only habitual thinking and premature convergence? I can help design and facilitate the next one.</p>
 				<p>I host <a href="http://thisisretrospectivefacilitation.com/">This is Retrospective Facilitation</a> a podcast dedicated to retrospectives.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Get in touch</a></li>
+					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
 				</ul>
 			</div>
 		</div>
@@ -69,7 +69,7 @@ nav-menu: true
 				<p>If they did you'd have already figured it out.</p>
 				<p>And they keep coming back if you apply a regular problem solving technique.</p>
 				<p>I don't have the solution in my pocket--nobody does--but <strong>I can help facilitate group conversations to start shifting patterns</strong>.</p>				<ul class="actions">
-					<li><a href="generic.html" class="button">Get in touch</a></li>
+					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
 				</ul>
 			</div>
 		</div>
@@ -84,7 +84,7 @@ nav-menu: true
 		</header>
 		<p>I can co-facilitate with folks from your side so they can learn by doing.</p>
 <ul class="actions">
-					<li><a href="generic.html" class="button">Get in touch</a></li>
+					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
 				</ul>
 	</div>
 </section>

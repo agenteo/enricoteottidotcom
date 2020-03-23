@@ -16,7 +16,7 @@ nav-menu: true
 			<h2>Why are we building this? And for whom?</h2>
 		</header>
 		<p>As a product manager I like ask straight questions.</p>		
-		<p><strong>What's purpose of your product?</strong></p>
+		<p><strong>What's the purpose of your product?</strong></p>
 	</div>
 </section>
 
@@ -36,7 +36,7 @@ nav-menu: true
 				<p>I conducted exploratory research to get to an hypotesis. Explanatory research to get a clear idea of a problem and ideas for potential solutions. Evaluative research to helps determining if we were getting closer.</p>
 				<p>Wanna move to a larger hill with larger potential? You need radical innovation.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Get in touch</a></li>
+					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
 				</ul>
 			</div>
 		</div>
@@ -53,7 +53,7 @@ nav-menu: true
 				<p>Is your backlog messy? I've been in the software development industry for 19 years.</p>
 				<p>I can pair with your team to shift patterns and bring new joy to your backlog.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Get in touch</a></li>
+					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
 				</ul>
 			</div>
 		</div>
@@ -66,9 +66,9 @@ nav-menu: true
 		<header class="major">
 			<h2>But I don't want to depend on you</h2>
 		</header>
-		<p>I can pair with one a product manager from your side so they can learn by doing.</p>
+		<p>I can pair with one a product manager so they can learn by doing.</p>
 <ul class="actions">
-					<li><a href="generic.html" class="button">Get in touch</a></li>
+					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
 				</ul>
 	</div>
 </section>
