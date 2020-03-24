@@ -32,7 +32,6 @@ nav-menu: true
 					<h3 id="kickoff">Incremental or radical innovation?</h3>
 				</header>
 				<p>User centered design is a <strong>hill climbing method</strong> that can help iterate product development.</p>
-				
 				<p>I conducted exploratory research to get to an hypotesis. Explanatory research to get a clear idea of a problem and ideas for potential solutions. Evaluative research to helps determining if we were getting closer.</p>
 				<p>Wanna move to a larger hill with larger potential? You need radical innovation.</p>
 				<ul class="actions">
@@ -64,9 +63,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>But I don't want to depend on you</h2>
+			<h2>Workshops</h2>
 		</header>
-		<p>I can pair with one a product manager so they can learn by doing.</p>
+		<p>I can pair with one of your new product managers so they can learn by doing or <strong>tailor a workshop based on your context and needs</strong>. My workshops lean heavily on praxis a mix of theory and practice.</p>
 <ul class="actions">
 					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
 				</ul>

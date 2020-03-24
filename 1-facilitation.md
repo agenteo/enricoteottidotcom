@@ -1,7 +1,7 @@
 ---
 title: Facilitation
 layout: landing
-description: 'Project kickoffs, retrospectives<br />group decisions'
+description: 'Project kickoffs, retrospectives <br />group decisions'
 image: assets/images/facilitation-wide-image.jpg
 nav-menu: true
 ---
@@ -64,11 +64,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h2>Some problems don't have solutions</h2>
+					<h3>Tackling a wicked problem</h3>
 				</header>
-				<p>If they did you'd have already figured it out.</p>
-				<p>And they keep coming back if you apply a regular problem solving technique.</p>
-				<p>I don't have the solution in my pocket--nobody does--but <strong>I can help facilitate group conversations to start shifting patterns</strong>.</p>				<ul class="actions">
+				<p>Wicked problems keep coming back if you apply a regular problem solving technique.</p>
+				<p>I don't have the solution--nobody does--<strong>what I can do is facilitate group conversations to start shifting patterns</strong>.</p>
+				<ul class="actions">
 					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
 				</ul>
 			</div>
@@ -80,9 +80,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>But I don't want to depend on you</h2>
+			<h2>Workshops</h2>
 		</header>
-		<p>I can co-facilitate with folks from your side so they can learn by doing.</p>
+		<p>I can co-facilitate with folks from your side so they can learn by doing <strong>or tailor a workshop based on your context and needs</strong>. My workshops lean heavily on praxis a mix of theory and practice.</p>
 <ul class="actions">
 					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
 				</ul>
