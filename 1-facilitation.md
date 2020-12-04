@@ -35,7 +35,8 @@ nav-menu: true
 				<p>Before the session I clarify the outcomes with the decision maker, roles, rules and agenda.</p>				
 				<p>During the session I encourage full participation, promote mutual understanding, foster inclusive solutions, cultivate shared responsibility.</p>
 				<ul class="actions">
-					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
+					<li><a target="_blank" href="/facilitation/project-kickoff" class="button icon fa-search">Find out more</a></li>
+					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button special icon fa-comment">Get in touch</a></li>
 				</ul>
 			</div>
 		</div>
@@ -47,11 +48,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Generate insights in a retrospective</h3>
+					<h3 id="retrospectives">Generate insights in a retrospective</h3>
 				</header>
 				<p>Does your group have retrospectives with only habitual thinking and premature convergence? I can help design and facilitate the next one.</p>
 				<p>I host <a href="http://thisisretrospectivefacilitation.com/">This is Retrospective Facilitation</a> a podcast dedicated to retrospectives.</p>
 				<ul class="actions">
+					<li><a target="_blank" href="/facilitation/agile-retrospectives" class="button icon fa-search">Find out more</a></li>
 					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
 				</ul>
 			</div>

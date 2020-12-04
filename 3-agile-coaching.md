@@ -33,7 +33,7 @@ nav-menu: true
 					<h3 id="kickoff">Can we be remote?</h3>
 				</header>
 				<p>It's a tradeoff.</p>
-				<p>I have extensive--since 2007--experience working remote both as a developer and a product manager and facilitator.</p>
+				<p>I have extensive--since 2007--experience working remote and hybrid environments as a software developer, product manager and facilitator.</p>
 				<p>It's gonna require discipline and intention to minimize the lack of physical interactions.</p>
 				<p>Let's talk about it.</p>
 				
