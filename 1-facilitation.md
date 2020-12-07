@@ -15,10 +15,11 @@ redirect_from: /1-facilitation.html
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Design and facilitation of group conversations</h2>
+			<h2>Do you feel like your (online) meetings are a waste of time?</h2>
 		</header>
-		<p>As a facilitator I like to encourage full participation, promote mutual understanding, foster inclusive solutions, cultivate shared responsibility.</p>		
-		<p><strong>What's purpose of your session?</strong></p>
+		<p>Perhaps the person organising them did not preparare adeguately. <strong>Perhaps their time is a scarce resource?</strong></p>
+		<p>Does that person have facilitation skills? <strong>You can hire me to pair with your staff and skill up their facilitation.</strong></p>
+		<p>{% include get-in-touch.html %}</p>				
 	</div>
 </section>
 
@@ -26,18 +27,17 @@ redirect_from: /1-facilitation.html
 <section id="two" class="spotlights">
 	<section>
 		<div class="image">
-			<img src="{% link assets/images/project-kickoff.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/project-kickoff.jpg %}" alt="" data-position="top center" />
 		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 id="kickoff">Reach alignment in a project kickoff</h3>
+					<h3 id="kickoff">I can design and facilitate your next software project kickoff</h3>
 				</header>
-				<p>I work on single or multi day project kickoffs.</p>
-				<p>Before the session I clarify the outcomes with the decision maker, roles, rules and agenda.</p>				
-				<p>During the session I encourage full participation, promote mutual understanding, foster inclusive solutions, cultivate shared responsibility.</p>
+				<p>I've been in the IT industry since 2001, hands on developement for 15 years before moving to coaching role and <strong>product management</strong> / facilitation.</p>
+				<p>Before the session I will work on reaching aligment on outcomes, roles, rules and agenda. <strong>After it your group will have a concrete plan to show what's next and who's doing what.</strong></p>				
 				<ul class="actions">
-					<li><a target="_blank" href="/facilitation/project-kickoff" class="button icon fa-search">Find out more</a></li>
+					<li><a target="_blank" href="/facilitation/project-kickoff" class="button icon fa-search">More details</a></li>
 					<li>{% include get-in-touch.html %}</li>
 				</ul>
 			</div>
@@ -51,9 +51,9 @@ redirect_from: /1-facilitation.html
 			<div class="inner">
 				<header class="major">
 					<h3 id="retrospectives">Generate insights in a retrospective</h3>
-				</header>
-				<p>Does your group have retrospectives with only habitual thinking and premature convergence? I can help design and facilitate the next one.</p>
-				<p>I host <a href="http://thisisretrospectivefacilitation.com/">This is Retrospective Facilitation</a> a podcast dedicated to retrospectives.</p>
+				</header>				
+				<p>Does your group have retrospectives with only habitual thinking and premature convergence? Let me help you design and facilitate a powerful retrospective and make your team even more effective.</p>
+				<p>I host <a href="https://thisisretrospectivefacilitation.com/">This is Retrospective Facilitation</a> a podcast dedicated to retrospectives and chair Agile Alliance <a href="https://www.agilealliance.org/resources/initiatives/principle-12-initiative">Principle 12 Initiative</a> to foster purposeful retrospectives.</p>
 				<ul class="actions">
 					<li><a target="_blank" href="/facilitation/agile-retrospectives" class="button icon fa-search">Find out more</a></li>
 					<li>{% include get-in-touch.html %}</li>
@@ -63,7 +63,7 @@ redirect_from: /1-facilitation.html
 	</section>
 	<section>
 		<div href="generic.html" class="image">
-			<img src="{% link assets/images/group-decision.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/wicked-problem.jpg %}" alt="" data-position="top center" />
 		</div>
 		<div class="content">
 			<div class="inner">
@@ -71,7 +71,7 @@ redirect_from: /1-facilitation.html
 					<h3>Tackling a wicked problem</h3>
 				</header>
 				<p>Wicked problems keep coming back if you apply a regular problem solving technique.</p>
-				<p>I don't have the solution--nobody does--<strong>what I can do is facilitate group conversations to start shifting patterns</strong>.</p>
+				<p>I don't have the solution--nobody does--<strong>what I can do is facilitate group conversations to probe for patterns</strong>, help formulate an experiment to shift the perceived patterns and make sure you know how to radiate or dampen your experiment.</p>
 				<ul class="actions">
 					<li>{% include get-in-touch.html %}</li>
 				</ul>

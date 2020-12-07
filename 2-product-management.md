@@ -34,7 +34,7 @@ redirect_from: /2-product-management.html
 					<h3 id="kickoff">Incremental or radical innovation?</h3>
 				</header>
 				<p>User centered design is a <strong>hill climbing method</strong> that can help iterate product development.</p>
-				<p>I conducted exploratory research to get to an hypotesis. Explanatory research to get a clear idea of a problem and ideas for potential solutions. Evaluative research to helps determining if we were getting closer.</p>
+				<p>I can conduct EXPLORatory research to get to an hypotesis. EXPLANatory research to get a clear idea of a problem and ideas for potential solutions. Evaluative research to helps determining if we were getting closer.</p>
 				<p>Wanna move to a larger hill with larger potential? You need radical innovation.</p>
 				<ul class="actions">
 					<li>{% include get-in-touch.html %}</li>
@@ -51,7 +51,7 @@ redirect_from: /2-product-management.html
 				<header class="major">
 					<h3>Our roadmap is clear but our backlog is not</h3>
 				</header>
-				<p>Is your backlog messy? I've been in the software development industry for 19 years.</p>
+				<p>Is your backlog messy? I've been in the software development industry since 2001.</p>
 				<p>I can pair with your team to shift patterns and bring new joy to your backlog.</p>
 				<ul class="actions">
 					<li>{% include get-in-touch.html %}</li>

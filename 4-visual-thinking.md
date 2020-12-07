@@ -6,6 +6,7 @@ image: assets/images/visual-thinking-1.jpg
 nav-menu: true
 permalink: /visual-thinking/
 redirect_from: /4-visual-thinking.html
+show_tile: false
 ---
 
 <!-- Main -->

@@ -27,17 +27,16 @@ redirect_from: /3-agile-coaching.html
 <section id="two" class="spotlights">
 	<section>
 		<div class="image">
-			<img src="{% link assets/images/project-kickoff.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/distributed-team.jpg %}" alt="" data-position="center center" />
 		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 id="kickoff">Can we be remote?</h3>
+					<h3 id="kickoff">Can we be a distributed or hybrid team?</h3>
 				</header>
-				<p>It's a tradeoff.</p>
+				<p>It's possible. It's gonna require discipline and intention to minimize the lack of physical interactions.</p>
 				<p>I have extensive--since 2007--experience working remote and hybrid environments as a software developer, product manager and facilitator.</p>
-				<p>It's gonna require discipline and intention to minimize the lack of physical interactions.</p>
-				<p>Let's talk about it.</p>
+				
 				
 				<ul class="actions">
 					<li>{% include get-in-touch.html %}</li>
