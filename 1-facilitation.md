@@ -4,6 +4,8 @@ layout: landing
 description: 'Project kickoffs, retrospectives <br />group decisions'
 image: assets/images/facilitation-wide-image.jpg
 nav-menu: true
+permalink: /facilitation/
+redirect_from: /1-facilitation.html
 ---
 
 <!-- Main -->

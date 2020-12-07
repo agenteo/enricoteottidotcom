@@ -4,6 +4,8 @@ layout: landing
 description: 'A balance between planning and agility'
 image: assets/images/product-management.jpg
 nav-menu: true
+permalink: /product-management/
+redirect_from: /2-product-management.html
 ---
 
 <!-- Main -->

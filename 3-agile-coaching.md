@@ -4,6 +4,8 @@ layout: landing
 description: 'Agile is not a check list </br> Let''s tailor it to your context'
 image: assets/images/agile-coaching.jpg
 nav-menu: true
+permalink: /agile-coaching/
+redirect_from: /3-agile-coaching.html
 ---
 
 <!-- Main -->
