@@ -15,10 +15,11 @@ redirect_from: /1-facilitation.html
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Do you feel like your (online) meetings are a waste of time?</h2>
+			<h2>Are your (online) meetings less than stellar?</h2>
 		</header>
 		<p>Perhaps the person organising them did not preparare adeguately. <strong>Perhaps their time is a scarce resource?</strong></p>
-		<p>Does that person have facilitation skills? <strong>You can hire me to pair with your staff and skill up their facilitation.</strong></p>
+		<p>Does that person have facilitation skills? <strong>You can hire me to pair with your staff and skill up their facilitation or I can handle the design and facilitation.</strong></p>
+		<p>As a facilitator I like to encourage full participation, promote mutual understanding, foster inclusive solutions, cultivate shared responsibility. <strong>What's purpose of your session?</strong></p>
 		<p>{% include get-in-touch.html %}</p>				
 	</div>
 </section>
