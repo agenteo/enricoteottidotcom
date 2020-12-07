@@ -31,6 +31,6 @@ show_tile: false
 <p>You don't have to be using any Agile framework to benefit from the learnings of an Agile Retrospective!</p>
 
 <ul class="actions">
-    <li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button special icon fa-comment">Get in touch</a></li>
+    <li>{% include get-in-touch.html %}</li>
     <li><a target="_blank" href="/1-facilitation.html#retrospectives" class="button icon fa-search">Back to facilitation</a></li>    
 </ul>

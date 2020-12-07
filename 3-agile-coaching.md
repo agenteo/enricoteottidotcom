@@ -40,7 +40,7 @@ redirect_from: /3-agile-coaching.html
 				<p>Let's talk about it.</p>
 				
 				<ul class="actions">
-					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
+					<li>{% include get-in-touch.html %}</li>
 				</ul>
 			</div>
 		</div>

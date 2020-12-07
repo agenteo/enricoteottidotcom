@@ -26,7 +26,7 @@ show_tile: false
 </ul>
 
 <ul class="actions">
-    <li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button special icon fa-comment">Get in touch</a></li>
+    <li>{% include get-in-touch.html %}</li>
     <li><a target="_blank" href="/1-facilitation.html" class="button icon fa-search">Back to facilitation</a></li>    
 </ul>
 
@@ -69,6 +69,6 @@ show_tile: false
 </ul>
 
 <ul class="actions">
-    <li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button special icon fa-comment">Get in touch</a></li>
+    <li>{% include get-in-touch.html %}</li>
     <li><a target="_blank" href="/1-facilitation.html" class="button icon fa-search">Back to facilitation</a></li>    
 </ul>

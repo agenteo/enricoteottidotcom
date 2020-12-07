@@ -37,7 +37,7 @@ redirect_from: /2-product-management.html
 				<p>I conducted exploratory research to get to an hypotesis. Explanatory research to get a clear idea of a problem and ideas for potential solutions. Evaluative research to helps determining if we were getting closer.</p>
 				<p>Wanna move to a larger hill with larger potential? You need radical innovation.</p>
 				<ul class="actions">
-					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
+					<li>{% include get-in-touch.html %}</li>
 				</ul>
 			</div>
 		</div>
@@ -54,7 +54,7 @@ redirect_from: /2-product-management.html
 				<p>Is your backlog messy? I've been in the software development industry for 19 years.</p>
 				<p>I can pair with your team to shift patterns and bring new joy to your backlog.</p>
 				<ul class="actions">
-					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
+					<li>{% include get-in-touch.html %}</li>
 				</ul>
 			</div>
 		</div>
@@ -69,7 +69,7 @@ redirect_from: /2-product-management.html
 		</header>
 		<p>I can pair with one of your new product managers so they can learn by doing or <strong>tailor a workshop based on your context and needs</strong>. My workshops lean heavily on praxis a mix of theory and practice.</p>
 <ul class="actions">
-					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
+					<li>{% include get-in-touch.html %}</li>
 				</ul>
 	</div>
 </section>

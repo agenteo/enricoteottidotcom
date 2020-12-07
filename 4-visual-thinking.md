@@ -36,7 +36,7 @@ redirect_from: /4-visual-thinking.html
 				<p>What's your context? What's goal of your visualization? What's your role? Presenter? Documenter? Facilitator?</p>				
 				<p>I can tailor a workshop based on your needs.</p>
 				<ul class="actions">
-					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
+					<li>{% include get-in-touch.html %}</li>
 				</ul>
 			</div>
 		</div>
@@ -52,7 +52,7 @@ redirect_from: /4-visual-thinking.html
 				</header>
 				<p>I can be an active listener in your session and create digital or physical artifacts.</p>
 				<ul class="actions">
-					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
+					<li>{% include get-in-touch.html %}</li>
 				</ul>
 			</div>
 		</div>
@@ -68,7 +68,7 @@ redirect_from: /4-visual-thinking.html
 				</header>
 				<p>To help increase group engagement in activities, and remembering what happened so far in multi-day sessions.</p>
 				<ul class="actions">
-					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
+					<li>{% include get-in-touch.html %}</li>
 				</ul>
 			</div>
 		</div>

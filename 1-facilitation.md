@@ -38,7 +38,7 @@ redirect_from: /1-facilitation.html
 				<p>During the session I encourage full participation, promote mutual understanding, foster inclusive solutions, cultivate shared responsibility.</p>
 				<ul class="actions">
 					<li><a target="_blank" href="/facilitation/project-kickoff" class="button icon fa-search">Find out more</a></li>
-					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button special icon fa-comment">Get in touch</a></li>
+					<li>{% include get-in-touch.html %}</li>
 				</ul>
 			</div>
 		</div>
@@ -56,7 +56,7 @@ redirect_from: /1-facilitation.html
 				<p>I host <a href="http://thisisretrospectivefacilitation.com/">This is Retrospective Facilitation</a> a podcast dedicated to retrospectives.</p>
 				<ul class="actions">
 					<li><a target="_blank" href="/facilitation/agile-retrospectives" class="button icon fa-search">Find out more</a></li>
-					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
+					<li>{% include get-in-touch.html %}</li>
 				</ul>
 			</div>
 		</div>
@@ -73,7 +73,7 @@ redirect_from: /1-facilitation.html
 				<p>Wicked problems keep coming back if you apply a regular problem solving technique.</p>
 				<p>I don't have the solution--nobody does--<strong>what I can do is facilitate group conversations to start shifting patterns</strong>.</p>
 				<ul class="actions">
-					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
+					<li>{% include get-in-touch.html %}</li>
 				</ul>
 			</div>
 		</div>
@@ -88,7 +88,7 @@ redirect_from: /1-facilitation.html
 		</header>
 		<p>I can co-facilitate with folks from your side so they can learn by doing <strong>or tailor a workshop based on your context and needs</strong>. My workshops lean heavily on praxis a mix of theory and practice.</p>
 <ul class="actions">
-					<li><a target="_blank" href="https://calendly.com/teotti/free-30-minutes-chat" class="button">Get in touch</a></li>
+					<li>{% include get-in-touch.html %}</li>
 				</ul>
 	</div>
 </section>
