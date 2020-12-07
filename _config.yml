@@ -4,7 +4,7 @@ subtitle: agile coach, facilitator
 email: enrico.teotti@pm.me
 description: I am an agile coach and (visual) facilitator<br /> with product management and sofware development experience.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://enricoteotti.com # the base hostname & protocol for your site
+url: https://enricoteotti.com/ # the base hostname & protocol for your site
 author: Enrico Teotti
 
 # homepage tiles
