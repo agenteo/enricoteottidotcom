@@ -3,7 +3,7 @@ title: Visual thinking
 layout: landing
 description: 'I see what you mean'
 image: assets/images/visual-thinking-1.jpg
-nav-menu: true
+nav-menu: false
 permalink: /visual-thinking/
 redirect_from: /4-visual-thinking.html
 show_tile: false
