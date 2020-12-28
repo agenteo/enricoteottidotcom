@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Work with me
 landing-title: 'Hello, I am Enrico Teotti'
 description: null
 image: null
