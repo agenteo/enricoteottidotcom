@@ -2,7 +2,7 @@
 title: Enrico Teotti
 subtitle: agile coach, facilitator
 email: enrico.teotti@pm.me
-description: I am an agile coach and (visual) facilitator<br /> with product management and sofware development experience.
+description: I am an agile coach and (visual) facilitator<br /> with product management and software development experience.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://enricoteotti.com # the base hostname & protocol for your site
 author: Enrico Teotti
@@ -16,7 +16,7 @@ github_url:
 instagram_url: https://instagram.com/iamte0
 linkedin_url: https://www.linkedin.com/in/agenteo
 twitter_url: https://twitter.com/agenteo
-calendly_url: https://calendly.com/teotti/free-30-minutes-chat
+scheduling_url: https://calendarbridge.com/book/enrico
 
 # build settings
 markdown: kramdown
