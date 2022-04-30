@@ -17,6 +17,8 @@ instagram_url: https://instagram.com/iamte0
 linkedin_url: https://www.linkedin.com/in/agenteo
 twitter_url: https://twitter.com/agenteo
 scheduling_url: https://calendarbridge.com/book/enrico
+iaf_online_sig_registration_url: https://us02web.zoom.us/meeting/register/tZwvfumrqz8rHdYL8Psy5xH4QEQF_bJlKZYX
+aa_retro_on_retros_registration_url: https://us02web.zoom.us/meeting/register/tZMvd-6rqDojGt1KP8ulgYI9gmtf03riAcaY
 
 # build settings
 markdown: kramdown
