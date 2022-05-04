@@ -1,6 +1,6 @@
 # site settings
 title: Enrico Teotti
-subtitle: agile coach, facilitator
+subtitle: agile coach, PM, facilitator
 email: enrico.teotti@pm.me
 description: I am an agile coach and (visual) facilitator<br /> with product management and software development experience.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -12,10 +12,9 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 4
 
 # social settings
-github_url:
-instagram_url: https://instagram.com/iamte0
 linkedin_url: https://www.linkedin.com/in/agenteo
 twitter_url: https://twitter.com/agenteo
+youtube_url: https://www.youtube.com/channel/UCF2su9PuXjbjx4ZWDhR864A
 scheduling_url: https://calendarbridge.com/book/enrico
 iaf_online_sig_registration_url: https://us02web.zoom.us/meeting/register/tZwvfumrqz8rHdYL8Psy5xH4QEQF_bJlKZYX
 aa_retro_on_retros_registration_url: https://us02web.zoom.us/meeting/register/tZMvd-6rqDojGt1KP8ulgYI9gmtf03riAcaY

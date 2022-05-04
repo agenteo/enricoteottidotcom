@@ -24,12 +24,20 @@
                     <li><a href="#one" class="button next scrolly">See my passions</a></li>
                 </ul>
             </div>
+            <div class="content">
+       
+                    <ul class="icons">                    
+                        <li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a> </li>                    
+                        <li><a href="{{ site.youtube_url }}" class="icon alt fa-youtube-play" target="_blank"><span class="label">YouTube</span></a></li>
+                        <li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+                    </ul>
+       
+            </div>
         </div>
     </section>
-
+  
     <!-- Main -->
     <div id="main">
-
         <section class="spotlights">
             <section>
                 <div class="image">
@@ -40,9 +48,13 @@
                         <header class="major">
                             <h3 id="kickoff">Learn and share Online Facilitation tricks</h3>
                         </header>
-                        <p>I host a monthly IAF (International Association Facilitators) collaborative call to share  <strong>impactful online facilitation ideas, activities or tools</strong>.</p>
-                        <ul class="actions">                            
-                            <li><a target="_blank" href="{{ site.iaf_online_sig_registration_url }}" class="button special icon fa-sign-in">Join the next call</a></li>
+                        <p>I host a monthly collaborative call to share <strong>impactful online facilitation ideas,
+                                activities or tools</strong> part of IAF (International Association Facilitators).</p>
+                        <ul class="actions">
+                            <li><a target="_blank" href="{{ site.iaf_online_sig_registration_url }}"
+                                    class="button special icon fa-sign-in fit">Join the next call</a></li>
+                            <li><a href="/iaf-online-facilitation-search-interest-group"
+                                    class="button icon fa-info-circle fit">Details</a></li>
                         </ul>
                     </div>
                 </div>
@@ -55,15 +67,17 @@
                     <div class="inner">
                         <header class="major">
                             <h3 id="retrospectives">Let's talk about Agile Retrospectives</h3>
-                        </header>				
-                        <p>I host a monthly Agile Alliance call to discuss Agile Retrospective scenarios, formats and generate ideas to make our <strong>Retrospectives effective and concrete</strong>.</p>
-                        <ul class="actions">                            
-                            <li><a target="_blank" href="{{ site.aa_retro_on_retros_registration_url }}" class="button special icon fa-sign-in">Join the next call</a></li>
+                        </header>
+                        <p>I host a monthly Agile Alliance call to discuss Agile Retrospective scenarios, formats and
+                            generate ideas to make our <strong>Retrospectives effective and concrete</strong>.</p>
+                        <ul class="actions">
+                            <li><a target="_blank" href="{{ site.aa_retro_on_retros_registration_url }}"
+                                    class="button special icon fa-sign-in">Join the next call</a></li>
                         </ul>
                     </div>
                 </div>
             </section>
-    </section>
+        </section>
         <!-- One -->
         {% include tiles.html %}
 
@@ -75,16 +89,15 @@
                 </header>
                 <p>{{ content }}</p>
                 <ul class="actions">
-                    <li><a target="_blank" href="{{ site.scheduling_url }}" class="button special icon fa-comment">Schedule a free consultation</a></li>
+                    <li><a target="_blank" href="{{ site.scheduling_url }}"
+                            class="button special icon fa-comment">Schedule a free consultation</a></li>
                 </ul>
             </div>
-        </section>
         </section>
 
     </div>
 
     {% include footer.html %}
-
 </body>
 
 </html>

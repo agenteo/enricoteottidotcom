@@ -3,7 +3,7 @@ title: Transition to online and hybrid
 layout: landing
 description: Redesign your activities and flows for distributed groups
 image: assets/images/transition-online.jpg
-nav-menu: true
+nav-menu: false
 permalink: /transition-online/
 ---
 
