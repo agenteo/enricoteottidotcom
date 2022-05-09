@@ -3,7 +3,7 @@ title: IAF Online Facilitation SIG
 layout: post
 description: 'International Association of Facilitators Online Facilitation Search Interest Group'
 nav-menu: false
-permalink: /iaf-online-facilitation-search-interest-group/
+permalink: /iaf-online-facilitation-special-interest-group/
 show_tile: false
 ---
 
